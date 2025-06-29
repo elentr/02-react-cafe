@@ -7,7 +7,7 @@ interface VoteStatsProps {
   positiveRate: number;
 }
 
-export default function VoteStatus({
+export default function VoteStats({
   votes,
   totalVotes,
   positiveRate,
